@@ -31,4 +31,43 @@ The project simulates real-world MIS analyst responsibilities across Sales, Oper
 - Standardized product, category, and status fields
 - Created a cleaning log documenting all changes
 
+### 2. Dashboards & Visual Analysis
+- Revenue by Region and Channel
+- Lead Conversion Rate by Status
+- Expenses by Category
+- Fulfillment Delays by Warehouse
+- Monthly Sales Trends
+- Top Customers by Revenue
+
+### 3. SQL Business Analysis
+- Top 5 customers by total revenue
+- Overdue payments by region (Sales + Finance join)
+- Lead-to-sale conversion funnel (CRM + Sales join)
+- Additional cross-department performance queries
+
+### 4. Automation
+- Automated detection of overdue and upcoming invoices
+- Conditional highlighting of invoices based on due dates
+- Email alerts summarizing payment risks
+- Reduced manual tracking and improved finance visibility
+
+---
+
+## 📈 Key Insights
+- Certain high-revenue regions also experience higher fulfillment delays
+- Lead conversion is strongest in qualified stages and weakest in early stages
+- Marketing and logistics account for the majority of expenses
+- Payment delays are concentrated in specific regions and vendors
+
+---
+
+## 🚀 Business Impact
+- Reduced manual reporting effort
+- Improved visibility into operational and financial risks
+- Enabled faster, data-driven decision-making
+- Demonstrated integration of analytics, automation, and reporting
+
+---
+
+## 📂 Repository Structure
 
