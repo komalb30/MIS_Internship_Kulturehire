@@ -1,1 +1,1 @@
-# <img width="15" height="15" alt="" src="logo/KH.png" /> End-to-End MIS Business Analytics Project
+# <img width="20" height="20" alt="" src="logo/KH.png" /> End-to-End MIS Business Analytics Project
