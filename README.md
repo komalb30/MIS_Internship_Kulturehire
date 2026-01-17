@@ -1,4 +1,4 @@
-# <img width="45" height="45" alt="" src="logo/KH.png" /> End-to-End MIS Business Analytics Project
+# <img width="45" height="45" alt="" src="logo/KH.png" /> End-to-End MIS Analytics Project
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end Management Information System (MIS) built during my business analytics internship. The objective was to transform raw, cross-functional business data into reliable insights, dashboards, SQL-driven analysis, and automated reporting to support decision-making.
@@ -70,4 +70,23 @@ The project simulates real-world MIS analyst responsibilities across Sales, Oper
 ---
 
 ## 📂 Repository Structure
+
+```
+MIS Internship/
+│
+├── data/                       # datasets
+│   ├── Cleaned_dataset.xlsx
+│
+├── dashboard/                  
+│   ├── MIS_Excel_Dashboard.png
+│   └── MIS_PowerBI_dashboard.png
+│
+├── Power BI Dashboard/         # Power BI dashboard file
+│   └── HR_Analytics.pbix
+│
+├── Reports/                   
+│   └── HR Analytics Reports.pdf
+├── README.md
+
+```
 
