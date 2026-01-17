@@ -74,19 +74,24 @@ The project simulates real-world MIS analyst responsibilities across Sales, Oper
 ```
 MIS Internship/
 │
-├── data/                       # datasets
+├── data/                       
 │   ├── Cleaned_dataset.xlsx
 │
 ├── dashboard/                  
 │   ├── MIS_Excel_Dashboard.png
 │   └── MIS_PowerBI_dashboard.png
 │
-├── Power BI Dashboard/         # Power BI dashboard file
-│   └── HR_Analytics.pbix
+├── SQL Queries/         
+│   └── SQL_Analysis.sql
 │
-├── Reports/                   
-│   └── HR Analytics Reports.pdf
+├── Automation/                   
+│   └── Invoice_Automation.
+|
+├── Presentation/                   
+│   └── MIS_Presentation.ppt
+|
 ├── README.md
 
 ```
+
 
