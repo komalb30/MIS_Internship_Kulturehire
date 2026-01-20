@@ -8,7 +8,7 @@ The project simulates real-world MIS analyst responsibilities across Sales, Oper
 ---
 
 ## 🧩 Data Sources
-- **Sales**: Orders, Amount, regions, channels
+- **Sales**: Orders, Amount, Regions, Channels
 - **Operations**: Warehouse performance, Fulfillment days, Inventory
 - **CRM**: Leads, Conversion rates, Lead status
 - **Finance**: Expenses, Budgets, Payments, Due dates
