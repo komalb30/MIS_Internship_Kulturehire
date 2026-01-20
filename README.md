@@ -97,5 +97,5 @@ MIS Internship/
 ---
 
 ## 📜My Internship Certificate
-<img width= "500" height="500" alt="" src="Completion Letter.png" />
+<img width= "500" height="700" alt="" src="https://github.com/komalb30/MIS_Internship_Kulturehire/blob/main/logo/Completion%20Letter.jpg" />
 
