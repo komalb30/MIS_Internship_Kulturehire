@@ -1,4 +1,4 @@
-# <img width="45" height="45" alt="" src="logo/KH.png" /> End-to-End MIS Analytics Project
+# <img width="45" height="45" alt="" src="logo/KH.png" /> MIS Analyst Internship
 
 ## 📌 Project Overview
 This project demonstrates an end-to-end Management Information System (MIS) built during my business analytics internship. The objective was to transform raw, cross-functional business data into reliable insights, dashboards, SQL-driven analysis, and automated reporting to support decision-making.
